@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Zorathe&#39;s Blog</title>
+		<link>https://zorathe.github.io/</link>
+		<description>Recent content on Zorathe&#39;s Blog</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+			<managingEditor>dathomas@protonmail.com (Zorathe)</managingEditor>
+		
+		
+			<webMaster>dathomas@protonmail.com (Zorathe)</webMaster>
+		
+		
+		
+			<atom:link href="https://zorathe.github.io/index.xml" rel="self" type="application/rss+xml" />
+	</channel>
+</rss>
