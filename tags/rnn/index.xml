@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>RNN on Zorathe&#39;s Blog</title>
+    <link>http://localhost:1313/tags/rnn/</link>
+    <description>Recent content in RNN on Zorathe&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Jul 2026 07:05:59 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/rnn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to the blog</title>
+      <link>http://localhost:1313/blog/posts/</link>
+      <pubDate>Fri, 03 Jul 2026 07:05:59 -0400</pubDate>
+      <guid>http://localhost:1313/blog/posts/</guid>
+      <description>&lt;p&gt;This is some content&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/lordmathis/hugo-theme-nightfall#&#34;&gt;https://github.com/lordmathis/hugo-theme-nightfall#&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bacon &lt;em&gt;ipsum&lt;/em&gt; dolor &lt;strong&gt;amet&lt;/strong&gt; meatloaf capicola ball tip pancetta
+tri-tip. Filet mignon beef ribs cow, chicken tongue salami
+fatback burgdoggen boudin pork tail shoulder short loin
+flank. Brisket hamburger ground round, landjaeger beef
+ribs ribeye alcatra jowl tail cupim.&lt;/p&gt;
+&lt;p&gt;Venison pork shank rump, alcatra swine pancetta strip steak
+shankle burgdoggen pork belly chicken beef ribs turkey
+chislic. Cow bresaola pancetta porchetta, alcatra bacon
+buffalo burgdoggen ribeye beef ribs flank andouille short
+ribs t-bone.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
