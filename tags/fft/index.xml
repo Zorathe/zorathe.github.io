@@ -1,7 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>FFT on Zorathe's Blog</title><link>https://zorathe.github.io/tags/fft/</link><description>Recent content in FFT on Zorathe's Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 25 Aug 2026 21:44:01 -0400</lastBuildDate><atom:link href="https://zorathe.github.io/tags/fft/index.xml" rel="self" type="application/rss+xml"/><item><title>Note Detection Using Fast Fourier Transform</title><link>https://zorathe.github.io/posts/notedetectionusingfastfouriertransform/</link><pubDate>Tue, 25 Aug 2026 21:44:01 -0400</pubDate><guid>https://zorathe.github.io/posts/notedetectionusingfastfouriertransform/</guid><description>&lt;h2 id="how-fft-works-in-a-note-detector"&gt;How FFT Works in a Note Detector&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>FFT on Zorathe&#39;s Blog</title>
+    <link>http://localhost:1313/tags/fft/</link>
+    <description>Recent content in FFT on Zorathe&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Aug 2026 21:44:01 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/fft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Note Detection Using Fast Fourier Transform</title>
+      <link>http://localhost:1313/posts/notedetectionusingfastfouriertransform/</link>
+      <pubDate>Tue, 25 Aug 2026 21:44:01 -0400</pubDate>
+      <guid>http://localhost:1313/posts/notedetectionusingfastfouriertransform/</guid>
+      <description>&lt;h2 id=&#34;how-fft-works-in-a-note-detector&#34;&gt;How FFT Works in a Note Detector&lt;/h2&gt;
 &lt;p&gt;An FFT (Fast Fourier Transform) is one of the most useful tools for building a &lt;strong&gt;note detector&lt;/strong&gt; because it converts a short chunk of audio from the &lt;strong&gt;time domain&lt;/strong&gt; into the &lt;strong&gt;frequency domain&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;The frequency domain makes it possible to determine which frequencies are present in the audio and use that information to estimate the musical note being played.&lt;/p&gt;
-&lt;p&gt;For example, an &lt;strong&gt;A4&lt;/strong&gt; has a fundamental frequency of approximately &lt;strong&gt;440 Hz&lt;/strong&gt;.&lt;/p&gt;</description></item><item><title>Note Detection Using Fast Fourier Transform</title><link>https://zorathe.github.io/posts/mypost/</link><pubDate>Fri, 03 Jul 2026 07:05:59 -0400</pubDate><guid>https://zorathe.github.io/posts/mypost/</guid><description>&lt;h2 id="how-fft-works-in-a-note-detector"&gt;How FFT Works in a Note Detector&lt;/h2&gt;
-&lt;p&gt;An FFT (Fast Fourier Transform) is one of the most useful tools for building a &lt;strong&gt;note detector&lt;/strong&gt; because it converts a short chunk of audio from the &lt;strong&gt;time domain&lt;/strong&gt; into the &lt;strong&gt;frequency domain&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;The frequency domain makes it possible to determine which frequencies are present in the audio and use that information to estimate the musical note being played.&lt;/p&gt;
-&lt;p&gt;For example, an &lt;strong&gt;A4&lt;/strong&gt; has a fundamental frequency of approximately &lt;strong&gt;440 Hz&lt;/strong&gt;.&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;For example, an &lt;strong&gt;A4&lt;/strong&gt; has a fundamental frequency of approximately &lt;strong&gt;440 Hz&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
