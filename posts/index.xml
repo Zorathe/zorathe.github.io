@@ -32,5 +32,15 @@
 &lt;/ul&gt;
 &lt;p&gt;Credit to &lt;a href=&#34;https://brennan.io/2015/01/16/write-a-shell-in-c/&#34;&gt;Brennan&lt;/a&gt; and the &lt;a href=&#34;https://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html#tag_18_01&#34;&gt;POSIX standard&lt;/a&gt;&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Note Detection Using Fast Fourier Transform</title>
+      <link>http://localhost:1313/posts/mypost/</link>
+      <pubDate>Fri, 03 Jul 2026 07:05:59 -0400</pubDate>
+      <guid>http://localhost:1313/posts/mypost/</guid>
+      <description>&lt;h2 id=&#34;how-fft-works-in-a-note-detector&#34;&gt;How FFT Works in a Note Detector&lt;/h2&gt;
+&lt;p&gt;An FFT (Fast Fourier Transform) is one of the most useful tools for building a &lt;strong&gt;note detector&lt;/strong&gt; because it converts a short chunk of audio from the &lt;strong&gt;time domain&lt;/strong&gt; into the &lt;strong&gt;frequency domain&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The frequency domain makes it possible to determine which frequencies are present in the audio and use that information to estimate the musical note being played.&lt;/p&gt;
+&lt;p&gt;For example, an &lt;strong&gt;A4&lt;/strong&gt; has a fundamental frequency of approximately &lt;strong&gt;440 Hz&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
